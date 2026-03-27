@@ -3,7 +3,7 @@
 ### A starter template for a Databricks-focused machine learning workflow.
 
 ## Databricks ML Project Layout
-![Databricks ML project layout](../ml-dab-project/assets/dab-ml-layout.png)
+![Databricks ML project layout](/Users/kalyanbrata/Work/ml-dab-project/assets/dab-ml-layout.png)
 
 ➤ 𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐚𝐭𝐢𝐨𝐧
 
